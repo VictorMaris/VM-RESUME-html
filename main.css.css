@@ -1,0 +1,12 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: rgb(20, 20, 19);
+    color: rgb(241, 239, 235);
+}
+img {
+    border-radius: 4px;
+    width: 400px;
+ }
